@@ -12,4 +12,4 @@ status: $STATE
 visibility: public
 transports: http,https
 productionUrl: http://localhost:8080
-sandboxUrl: http://localhost:8081
+sandboxUrl: http://localhost:8081 
