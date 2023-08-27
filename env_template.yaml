@@ -19,4 +19,3 @@ environments:
         url: http://prod.sandbox.wso2.com:9090/samplestore
         config:
           retryTimeOut: $RETRY      
-
