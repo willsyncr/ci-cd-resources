@@ -5,3 +5,4 @@ deploy:
     update: true
 name: SampleStore
 version: 1.0.1
+
