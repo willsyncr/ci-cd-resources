@@ -4,7 +4,7 @@ data:
   name: SampleStore
   description: This is a sample server online store
   context: /SampleStore
-  version: 1.0.0
+  version: 1.0.1
   provider: admin
   lifeCycleStatus: CREATED
   isRevision: false
