@@ -19,8 +19,8 @@ data:
   endpointConfig:
     endpoint_type: http
     production_endpoints:
-      url: http://localhost:9080
+      url: http://localhost:7080
     sandbox_endpoints:
-      url: http://localhost:9081
+      url: http://localhost:7081
   endpointImplementationType: ENDPOINT
   websubSubscriptionConfiguration: null
