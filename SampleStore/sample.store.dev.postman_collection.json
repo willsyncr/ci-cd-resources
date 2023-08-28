@@ -538,7 +538,7 @@
 		{
 			"id": "fb418e8e-03f6-4f15-b76c-a193f0bc6bf4",
 			"key": "baseUrl",
-			"value": "https://hmc-dev.ddns.net:8244/SampleStore",
+			"value": "https://hmc-dev.ddns.net:8244/SampleStore/1.0.1",
 			"type": "string"
 		}
 	],
