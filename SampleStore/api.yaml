@@ -4,9 +4,9 @@ data:
   name: SampleStore
   description: This is a sample server online store - Teste
   context: /SampleStore
-  version: 1.0.1
+  version: 1.0.0
   provider: admin
-  lifeCycleStatus: CREATED
+  lifeCycleStatus: PUBLISHED
   isRevision: false
   revisionId: 0
   type: HTTP
