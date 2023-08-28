@@ -433,6 +433,7 @@
 			"key": "baseUrl",
 			"value": "https://hmc-dev.ddns.net:8244/SampleStore/1.0.0",
 			"type": "string"
+
 		}
 	],
 	"protocolProfileBehavior": {}
