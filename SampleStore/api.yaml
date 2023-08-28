@@ -24,3 +24,4 @@ data:
       url: http://hmc-dev.ddns.net:3002/sampleStore
   endpointImplementationType: ENDPOINT
   websubSubscriptionConfiguration: null
+
