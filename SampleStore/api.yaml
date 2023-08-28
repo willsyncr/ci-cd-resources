@@ -19,8 +19,8 @@ data:
   endpointConfig:
     endpoint_type: http
     production_endpoints:
-      url: https://hmc-dev.ddns.net:3002/samplestore
+      url: http://hmc-dev.ddns.net:3002/samplestore
     sandbox_endpoints:
-      url: https://hmc-dev.ddns.net:3002/samplestore
+      url: http://hmc-dev.ddns.net:3002/samplestore
   endpointImplementationType: ENDPOINT
   websubSubscriptionConfiguration: null
