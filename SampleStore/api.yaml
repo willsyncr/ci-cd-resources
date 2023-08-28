@@ -19,8 +19,8 @@ data:
   endpointConfig:
     endpoint_type: http
     production_endpoints:
-      url: http://localhost:7080
+      url: http://hmc-dev.ddns.net:3002/sampleStore
     sandbox_endpoints:
-      url: http://localhost:7081
+      url: http://hmc-dev.ddns.net:3002/sampleStore
   endpointImplementationType: ENDPOINT
   websubSubscriptionConfiguration: null
