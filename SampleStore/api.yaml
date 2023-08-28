@@ -2,7 +2,7 @@ type: api
 version: v4.2.0
 data:
   name: SampleStore
-  description: This is a sample server online store
+  description: This is a sample server online store - Teste
   context: /SampleStore
   version: 1.0.1
   provider: admin
